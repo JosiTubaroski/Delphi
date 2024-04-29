@@ -20,3 +20,5 @@ Entre em contato com um revendedor autorizado: A Embarcadero trabalha com uma re
 4. <b>Ative sua licença:</b> Uma vez adquirida a licença, você precisará ativá-la para poder começar a usar o Delphi. Siga as instruções fornecidas pela Embarcadero para ativar sua licença e começar a desenvolver com o Delphi.
    
 Certifique-se de revisar os termos e condições da licença para garantir que você está adquirindo a opção mais adequada às suas necessidades e que está em conformidade com os requisitos de uso da Embarcadero.
+
+https://www.embarcadero.com/br/products/delphi
