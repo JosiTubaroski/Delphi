@@ -22,3 +22,14 @@ Entre em contato com um revendedor autorizado: A Embarcadero trabalha com uma re
 Certifique-se de revisar os termos e condições da licença para garantir que você está adquirindo a opção mais adequada às suas necessidades e que está em conformidade com os requisitos de uso da Embarcadero.
 
 https://www.embarcadero.com/br/products/delphi
+
+Principais IDEs utilizadas pelo Delphi
+
+Algumas das principais IDEs (Integrated Development Environments) utilizadas para programar em Delphi incluem:
+
+1. RAD Studio: Este é o ambiente de desenvolvimento integrado oficial da Embarcadero para o Delphi. Ele oferece suporte ao desenvolvimento de aplicativos multiplataforma usando a linguagem de programação Delphi e a linguagem de programação C++Builder.
+2. Delphi Community Edition: Uma versão gratuita e limitada do RAD Studio, que oferece recursos básicos para desenvolvimento Delphi.
+3. Lazarus: Uma alternativa de código aberto ao Delphi, o Lazarus é uma IDE multiplataforma que suporta o Free Pascal, uma linguagem de programação compatível com o Delphi.
+4. Visual Studio Code com Extensão Delphi: O Visual Studio Code é uma IDE de código aberto e multiplataforma desenvolvida pela Microsoft. Uma extensão Delphi está disponível para permitir o desenvolvimento Delphi no Visual Studio Code.
+   
+Estas são algumas das opções populares para desenvolvimento Delphi, cada uma com suas próprias características e benefícios. A escolha da IDE dependerá das necessidades específicas do projeto e das preferências pessoais do desenvolvedor.
