@@ -10,7 +10,7 @@ A linguagem de programação Delphi é uma das mais conhecidas e utilizadas no d
 4. <b> Plataformas suportadas</b>: Inicialmente, o Delphi era usado principalmente para o desenvolvimento de aplicativos para Windows. No entanto, ao longo do tempo, a Borland expandiu o suporte da linguagem para outras plataformas, como Linux e macOS, além de oferecer suporte ao desenvolvimento de aplicativos móveis para Android e iOS.
 5. <b> Comunidade e legado</b>: A Delphi tem uma comunidade ativa de desenvolvedores e continua sendo uma escolha popular para o desenvolvimento de uma variedade de aplicativos, desde aplicativos de desktop até aplicativos móveis e sistemas corporativos. Seu legado e sua influência ainda são sentidos na indústria de desenvolvimento de software hoje.
 
-Como adquirir licenças para utilização do Delphi?
+## Como adquirir licenças para utilização do Delphi?
 
 
 Para adquirir licenças para o Delphi, você pode seguir estes passos:
