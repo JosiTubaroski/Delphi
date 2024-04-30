@@ -25,7 +25,7 @@ Certifique-se de revisar os termos e condições da licença para garantir que v
 
 https://www.embarcadero.com/br/products/delphi
 
-Principais IDEs utilizadas pelo Delphi
+## Principais IDEs utilizadas para programar em Delphi
 
 Algumas das principais IDEs (Integrated Development Environments) utilizadas para programar em Delphi incluem:
 
@@ -36,4 +36,4 @@ Algumas das principais IDEs (Integrated Development Environments) utilizadas par
    
 Estas são algumas das opções populares para desenvolvimento Delphi, cada uma com suas próprias características e benefícios. A escolha da IDE dependerá das necessidades específicas do projeto e das preferências pessoais do desenvolvedor.
 
-https://www.youtube.com/watch?v=G9qieeVe418
+
