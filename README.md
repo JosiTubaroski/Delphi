@@ -35,3 +35,5 @@ Algumas das principais IDEs (Integrated Development Environments) utilizadas par
 4. Visual Studio Code com Extensão Delphi: O Visual Studio Code é uma IDE de código aberto e multiplataforma desenvolvida pela Microsoft. Uma extensão Delphi está disponível para permitir o desenvolvimento Delphi no Visual Studio Code.
    
 Estas são algumas das opções populares para desenvolvimento Delphi, cada uma com suas próprias características e benefícios. A escolha da IDE dependerá das necessidades específicas do projeto e das preferências pessoais do desenvolvedor.
+
+https://www.youtube.com/watch?v=G9qieeVe418
