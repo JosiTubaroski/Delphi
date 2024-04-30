@@ -36,4 +36,12 @@ Algumas das principais IDEs (Integrated Development Environments) utilizadas par
    
 Estas são algumas das opções populares para desenvolvimento Delphi, cada uma com suas próprias características e benefícios. A escolha da IDE dependerá das necessidades específicas do projeto e das preferências pessoais do desenvolvedor.
 
+## Existem muitas empresas que utilizam delphi?
+
+Sim, o Delphi é uma linguagem de programação e um ambiente de desenvolvimento integrado (IDE) amplamente utilizados em muitas empresas em todo o mundo. Ele é conhecido por sua facilidade de uso, rapidez de desenvolvimento e capacidade de criar aplicativos para Windows, macOS, iOS, Android e Linux.
+
+Muitas empresas, especialmente aquelas que têm sistemas legados desenvolvidos em Delphi, continuam a utilizar essa tecnologia devido à sua confiabilidade e eficiência. Além disso, o Delphi é frequentemente escolhido para o desenvolvimento de aplicativos de negócios, sistemas de gerenciamento de banco de dados, software de automação industrial e muitos outros tipos de aplicativos.
+
+Embora seja mais comum em empresas que já utilizam a tecnologia Delphi há anos, ainda existem novos projetos sendo desenvolvidos em Delphi, especialmente nas áreas em que o Delphi é conhecido por sua forte presença, como sistemas de ponto de venda, sistemas de gestão empresarial e aplicativos de desktop corporativos.
+
 
