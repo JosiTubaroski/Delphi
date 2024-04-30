@@ -44,4 +44,6 @@ Muitas empresas, especialmente aquelas que têm sistemas legados desenvolvidos e
 
 Embora seja mais comum em empresas que já utilizam a tecnologia Delphi há anos, ainda existem novos projetos sendo desenvolvidos em Delphi, especialmente nas áreas em que o Delphi é conhecido por sua forte presença, como sistemas de ponto de venda, sistemas de gestão empresarial e aplicativos de desktop corporativos.
 
+## Estudos de Delphi
 
+1. Download e instalação do Delphi 11 Community Edition
